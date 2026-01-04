@@ -38,7 +38,7 @@
 > "代码如诗，逻辑如骨。"
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joker1911&theme=transparent&hide_border=true" alt="GitHub 连续贡献统计" />
+  <img src="https://github-readme-streak-stats-five.vercel.app/?user=joker1911&theme=transparent&hide_border=true" alt="GitHub 连续贡献统计" />
 </p>
 ---
 
