@@ -7,10 +7,10 @@
 ---
 
 ### 🚀 关于我
-- 🔭 **目前专注于**: [在这里填你正在做的项目，如：分布式系统/前端开发]
-- 🌱 **正在学习**: [在这里填你正在钻研的技术，如：Rust, LLM 应用]
+- 🔭 **目前专注于**: [Joke]
+- 🌱 **正在学习**: [LLM 应用]
 - 💬 **你可以找我聊**: 委内瑞拉政经局势（开个玩笑 😉）、技术架构、开源项目
-- 📫 **如何联系我**: [你的邮箱/博客链接]
+- 📫 **如何联系我**: [funcraftjoke@gmail.com]
 
 ---
 
@@ -37,14 +37,14 @@
 ### ✍️ 最近动态 / 贡献
 > "代码如诗，逻辑如骨。"
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joker1911&theme=transparent&hide_border=true" alt="GitHub 连续贡献统计" />
-</p>
+</p> -->
 
 ---
 
 ### 🤝 社交联系
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/joker1911" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="你的推特链接" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+</p> -->
