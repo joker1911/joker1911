@@ -1,17 +1,50 @@
-## Hi there, It's joker1911 👋
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=joker1911&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+# 👋 嗨，我是 joker1911
 
-<!--
-**joker1911/joker1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joker1911&label=主页访问量&color=0e75b6&style=flat" alt="访问量统计" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 关于我
+- 🔭 **目前专注于**: [在这里填你正在做的项目，如：分布式系统/前端开发]
+- 🌱 **正在学习**: [在这里填你正在钻研的技术，如：Rust, LLM 应用]
+- 💬 **你可以找我聊**: 委内瑞拉政经局势（开个玩笑 😉）、技术架构、开源项目
+- 📫 **如何联系我**: [你的邮箱/博客链接]
+
+---
+
+### 🛠 我的技能栈
+
+| 类别 | 技术图标 |
+| :--- | :--- |
+| **编程语言** | ![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=ffffff) ![Go](https://img.shields.io/badge/-Go-00add8?style=flat&logo=go&logoColor=ffffff) |
+| **前端/后端** | ![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=ffffff) |
+| **数据库/工具** | ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=mysql&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=ffffff) |
+
+---
+
+### 📊 GitHub 统计数据
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joker1911&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joker1911&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### ✍️ 最近动态 / 贡献
+> "代码如诗，逻辑如骨。"
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joker1911&theme=transparent&hide_border=true" alt="GitHub 连续贡献统计" />
+</p>
+
+---
+
+### 🤝 社交联系
+<p align="left">
+  <a href="https://github.com/joker1911" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="你的推特链接" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
