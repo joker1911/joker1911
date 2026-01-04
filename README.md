@@ -18,7 +18,7 @@
 
 | 类别 | 技术图标 |
 | :--- | :--- |
-| **编程语言** | ![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=ffffff) ![Go](https://img.shields.io/badge/-Go-00add8?style=flat&logo=go&logoColor=ffffff) |
+| **编程语言** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=ffffff) ![Go](https://img.shields.io/badge/-Go-00add8?style=flat&logo=go&logoColor=ffffff) |
 | **前端/后端** | ![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=ffffff) |
 | **数据库/工具** | ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=mysql&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=ffffff) |
 
