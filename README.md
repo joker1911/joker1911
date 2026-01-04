@@ -1,9 +1,9 @@
 # 👋 嗨，我是 joker1911
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joker1911&label=主页访问量&color=0e75b6&style=flat" alt="访问量统计" />
+  <img src="https://img.shields.io/badge/动态访客-%20-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=joker1911&label=%20&color=brightgreen&style=for-the-badge" />
 </p>
-
 ---
 
 ### 🚀 关于我
