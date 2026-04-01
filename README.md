@@ -8,8 +8,7 @@
 
 ### 🚀 关于我
 - 🔭 **目前专注于**: [Joke]
-- 🌱 **正在学习**: [LLM 应用]
-- 💬 **你可以找我聊**: 委内瑞拉政经局势（开个玩笑 😉）、技术架构、开源项目
+- 🌱 **正在学习**: [AI Agent 应用]
 - 📫 **如何联系我**: [funcraftjoke@gmail.com]
 
 ---
@@ -35,11 +34,10 @@
 ---
 
 ### ✍️ 最近动态 / 贡献
-> "代码如诗，逻辑如骨。"
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats-five.vercel.app/?user=joker1911&theme=transparent&hide_border=true" alt="GitHub 连续贡献统计" />
-</p>
+</p> -->
 ---
 
 ### 🤝 社交联系
